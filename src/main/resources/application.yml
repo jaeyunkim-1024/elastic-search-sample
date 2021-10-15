@@ -1,0 +1,5 @@
+elasticsearch:
+  host: https://board.es.eastus2.azure.elastic-cloud.com
+  user: elastic
+  password: FPZSsGA5s1ADK2JMRwI8f7h2
+  port: 9243
